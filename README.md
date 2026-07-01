@@ -9,11 +9,9 @@
 <h1 data-importer="text" align="left">🛠️ Tecnologias e habilidades</h1>
 
 ###
-
-<img data-importer="image" align="right" height="343" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
+<img align="right" height="333" alt="Image" src="https://github.com/user-attachments/assets/3d6a13c9-3529-40d3-a108-953943e7334c" />
+
+###
 <p data-importer="text" align="left">Microsoft Power BI<br>Power Query (ETL)<br>DAX (Data Analysis Expressions)<br>Modelagem de Dados<br>Relacionamentos entre tabelas<br>Dashboards Interativos<br>Visualização de Dados<br>Storytelling com Dados<br>KPIs e Métricas<br>Análise Exploratória de Dados (EDA)<br>UX/UI aplicado a Dashboards<br>Boas práticas de Business Intelligence</p>
-
-###
